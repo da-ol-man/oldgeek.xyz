@@ -1,12 +1,15 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: "A place for everyday internet users to find information that does not
+  make them feel silly. "
+metaTitle: using the internet blog
+metaDesc: a beginners blog to using web2 and web3
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
+Hello. Like you I am a noob (a new internet user). I am not talking noobie as in I've been online. I'm talking noob as in I want to have my own website/blog and I want to interact with the online community.  
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+
+That's us, The Noobies.
