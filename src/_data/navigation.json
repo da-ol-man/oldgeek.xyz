@@ -6,22 +6,18 @@
       "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/Whatt4",
-      "external": true
-    },
-    {
       "text": "Tools",
       "url": "/tools"
-    },
-    {
-      "url": "/tools/test/",
-      "text": "Test"
     },
     {
       "text": "Contact",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/Whatt4",
+      "external": true
     }
   ]
 }
