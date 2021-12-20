@@ -14,6 +14,10 @@
       "text": "Contact Page",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "Tools",
+      "url": "/tools"
     }
   ]
 }
