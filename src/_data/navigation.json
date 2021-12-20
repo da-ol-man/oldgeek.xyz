@@ -15,6 +15,10 @@
       "url": "/tools"
     },
     {
+      "url": "/tools/test/",
+      "text": "Test"
+    },
+    {
       "text": "Contact",
       "url": "/contact",
       "external": false
