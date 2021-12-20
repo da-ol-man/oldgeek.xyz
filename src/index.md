@@ -1,8 +1,8 @@
 ---
 layout: home
 title: A place for everyday internet users to find information that is easy to use.
-metaTitle: Beginner's guide blog
-metaDesc: a beginners guide to building a blog and using web2 and web3
+metaTitle: Build a blog | Beginners guide
+metaDesc: a beginners step-by-step guide to building a blog and using web2 and web3
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
