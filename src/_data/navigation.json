@@ -11,13 +11,13 @@
       "external": true
     },
     {
-      "text": "Contact Page",
-      "url": "/contact",
-      "external": false
-    },
-    {
       "text": "Tools",
       "url": "/tools"
+    },
+    {
+      "text": "Contact",
+      "url": "/contact",
+      "external": false
     }
   ]
 }
