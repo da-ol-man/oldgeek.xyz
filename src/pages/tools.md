@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Tools
-permalink: /tools
+permalink: /tools/index.html
 metaTitle: blog building, web2 and web3 tools
 metaDesc: page containing tools to build a blog and other web2 and web3 design tools
 ---
